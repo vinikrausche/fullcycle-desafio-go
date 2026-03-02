@@ -10,7 +10,3 @@
 
 </ul>
 </li>
-
-docker build -t vinikraus/fullcycle:latest .
-docker run --rm vinikraus/fullcycle:latest
-docker image ls vinikraus/fullcycle:latest
