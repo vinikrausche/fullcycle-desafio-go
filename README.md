@@ -6,7 +6,7 @@
 	<p>O comando exato para baixar e rodar  a imagem:docker run --rm vinikraus/fullcycle:latest
 </p>
   
-	</li>
+
 </ul>
 </li>
 
